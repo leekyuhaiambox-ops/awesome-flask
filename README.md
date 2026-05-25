@@ -335,6 +335,9 @@ Compute:
 
 ## Projects
 
+
+- [Saju Fortune](https://tarofortune.pythonanywhere.com) - Free Korean four-pillars (saju) astrology calculator with EN+KR interpretations. 60 day-pillar archetypes, five elements, ten gods, twelve life stages, daily luck, compatibility. Flask + Pillow for dynamic OG cards, no DB, deployed on PythonAnywhere free tier.
+- [GeoInfomatic — Living Zone Accessibility](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer for Korea. Walk or transit, 10-45 min radius, 8 facility types, AI summary, 100-point composite score. Flask + Leaflet + OSRM walking graph + custom transit graph.
 ### Boilerplates
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.
